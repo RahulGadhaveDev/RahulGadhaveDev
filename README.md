@@ -84,7 +84,7 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="mailto:rahulgadhave@example.com"><img src="https://img.shields.io/badge/Email-rahulgadhave@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Gadhave-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rahulgadhave022@gmail.com"><img src="https://img.shields.io/badge/Email-rahulgadhave@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rahul-gadhave-598024229/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Gadhave-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
