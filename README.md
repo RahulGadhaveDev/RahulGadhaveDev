@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
@@ -84,7 +83,8 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="mailto:rahulgadhave022@gmail.com"><img src="https://img.shields.io/badge/Email-rahulgadhave@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rahul-gadhave-598024229/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Gadhave-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rahulgadhave022@gmail.com"><img src="https://img.shields.io/badge/Email-rahulgadhave022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/rahul-gadhave-598024229/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Gadhave-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/Mobile-8788896977-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
